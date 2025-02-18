@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper-home-bg{
+}
+.background-overlay{
+    background-color: rgba(0, 0, 0, 0);
+    height: 100vh;
+}
+.wrapper-home a{
+    text-align: center;
+    background-color: #C7FFC2;
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+    width: 150px;
+    border-radius: 20px;
+}
